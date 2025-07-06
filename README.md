@@ -76,10 +76,11 @@ farzan13     1014
 Licensed under the MIT License.
 
 ## 🙋‍♂️ Author
-Farzan Afringan
-🌐 afringan.com
-📄 biography.afringan.com
-🐙 GitHub Profile
+
+**Farzan Afringan**  
+🌐 [farzan.us](https://farzan.us)  
+📄 [biography.afringan.com](https://biography.afringan.com)  
+🐙 [GitHub Profile](https://github.com/farzan-dev13)
 
 ## 🤝 Contributions
 
