@@ -45,13 +45,13 @@ To detect deeper issues, use sudo for broader output.
 ## 🧪 Sample Output
 
 🔍 Active SSH and user sessions
-farzan13 pts/0        2025-07-06 19:31 (192.168.1.1)
+farzan911 pts/0        2025-07-06 19:31 (192.168.1.1)
 
 
 ```
 🔍 Running processes with open network ports
 
-🚨 Suspicious:    nc     48837   farzan13   ...   TCP *:4444 (LISTEN)
+🚨 Suspicious:    nc     48837   farzan911   ...   TCP *:4444 (LISTEN)
 ⚠️ Known service: sshd   923     root       ...   TCP *:22   (LISTEN)
 ```
 
@@ -67,7 +67,7 @@ farzan13 pts/0        2025-07-06 19:31 (192.168.1.1)
 
 🔍 Recently created users
 afringan     1009
-farzan13     1014
+farzan911     1014
 
 
 ## 📌 Notes
