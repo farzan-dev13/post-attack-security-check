@@ -47,9 +47,9 @@ To detect deeper issues, use sudo for broader output.
 🔍 Active SSH and user sessions
 farzan13 pts/0        2025-07-06 19:31 (192.168.1.1)
 
-🔍 Running processes with open network ports
-🚨 Suspicious: nc      48837 farzan13 ... TCP *:4444 (LISTEN)
-⚠️ Known service: sshd  923   root     ... TCP *:22 (LISTEN)
+
+<pre> ``` 🔍 Running processes with open network ports 🚨 Suspicious: nc 48837 farzan13 ... TCP *:4444 (LISTEN) ⚠️ Known service: sshd 923 root ... TCP *:22 (LISTEN) ``` </pre>
+
 
 🔍 Files modified in the last 24 hours
 /etc/passwd
